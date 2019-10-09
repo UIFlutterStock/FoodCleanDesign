@@ -1,16 +1,14 @@
-# foodcleandesign
+# Flutter Beautiful Login Page UI Design and Animation
 
-A new Flutter project.
+Flutter Clean Food Design  With Rxdart and Bloc.
+This is Italo Andrade. Freelance developer, Enthusiast,  Microsoft Certified Solutions Developer (MCSD) . 
 
-## Getting Started
+Email : Italorio@gmail.com
 
-This project is a starting point for a Flutter application.
+Design credit - https://dribbble.com/shots/6569911-Recipes/attachments
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ScreenShot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://stockflutter-youtube.s3.amazonaws.com/image.png" height="500em" />
+
